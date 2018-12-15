@@ -1,0 +1,8 @@
+GRUPO: China Big Family 
+(Primeira tentativa)
+${NOEL},
+
+O seu amigo oculto vai ser:
+${RECIPIENTE}
+Sinceramente,
+Bot
